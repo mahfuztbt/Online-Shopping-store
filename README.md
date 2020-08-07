@@ -1,7 +1,7 @@
 # DjangoShop
 Build a beautiful website with django,html,sql -for begineer 
 
-necessary command 
+necessary command <br />
 pip install django==3.0.8  -->for installing django
 python manage.py runserver  	
 python manage.py startapp products	
